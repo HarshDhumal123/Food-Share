@@ -1,0 +1,2 @@
+$('#subjectTable').DataTable();
+$('#deptTable').DataTable();
